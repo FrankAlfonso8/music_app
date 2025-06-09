@@ -1,1 +1,32 @@
-
+[
+    {
+      'url': 'https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Amord3.m4a',
+      'title': 'Amord3',
+      'author': 'Frank Alfonso',
+      'imageUrl': 'https://picsum.photos/200',
+    },
+    {
+      'url': 'https://github.com/FrankAlfonso8/music_app/raw/refs/heads/main/songs/Xxxtentacion_Sad.mp3',
+      'title': 'Sad',
+      'author': 'XXXTentacion',
+      'imageUrl': 'https://picsum.photos/200',
+    },
+    {
+      'url': 'https://github.com/FrankAlfonso8/music_app/raw/main/songs/NIHILS_HELP_OUR_SOULS.mp3',
+      'title': 'Help Our Souls',
+      'author': 'NIHILS',
+      'imageUrl': 'https://picsum.photos/200',
+    },
+    {
+      'url': 'https://github.com/FrankAlfonso8/music_app/raw/main/songs/ToveLo_Talking_Body.mp3',
+      'title': 'Talking Body',
+      'author': 'Tove Lo',
+      'imageUrl': 'https://picsum.photos/200',
+    },
+      {
+      'url': https://github.com/FrankAlfonso8/music_app/raw/refs/heads/main/songs/Redbone.mp3',
+      'title': 'Redbone',
+      'author': 'Childish Gambino',
+      'imageUrl': 'https://picsum.photos/200',
+    },
+  ]
