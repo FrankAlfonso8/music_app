@@ -28,5 +28,23 @@
     "title": "Redbone",
     "author": "Childish Gambino",
     "imageUrl": "https://picsum.photos/200"
+  },
+  {
+    "url": "https://github.com/FrankAlfonso8/music_app/raw/main/songs/Rockstar.m4a",
+    "title": "Rockstar",
+    "author": "Ilcan Sencan, Dyonoro",
+    "imageUrl": "https://picsum.photos/200"
+  },
+  {
+    "url": "https://github.com/FrankAlfonso8/music_app/raw/refs/heads/main/songs/Rack.m4a",
+    "title": "Rack",
+    "author": "Callmestevieray",
+    "imageUrl": "https://picsum.photos/200"
+  },
+  {
+    "url": "https://github.com/FrankAlfonso8/music_app/raw/refs/heads/main/songs/Mike_Sherm_Mentality.m4a",
+    "title": "Mike Sherm Mentality",
+    "author": "Mike Sherm",
+    "imageUrl": "https://picsum.photos/200"
   }
 ]
