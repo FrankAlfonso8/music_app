@@ -6,7 +6,7 @@
     "imageUrl": ""
   },
   {
-    "url": "https://github.com/FrankAlfonso8/music_app/raw/refs/heads/main/songs/Xxxtentacion_Sad.mp3",
+    "url": "https://github.com/FrankAlfonso8/music_app/raw/main/songs/Xxxtentacion_Sad.mp3",
     "title": "Sad",
     "author": "XXXTentacion",
     "imageUrl": "https://picsum.photos/200"
@@ -24,10 +24,10 @@
     "imageUrl": "https://picsum.photos/200"
   },
   {
-    "url": "https://github.com/FrankAlfonso8/music_app/raw/refs/heads/main/songs/Redbone.mp3",
+    "url": "https://github.com/FrankAlfonso8/music_app/raw/main/songs/Redbone.mp3",
     "title": "Redbone",
     "author": "Childish Gambino",
-    "imageUrl": "https://source.unsplash.com/random/300x300?music"
+    "imageUrl": "https://picsum.photos/200"
   },
   {
     "url": "https://github.com/FrankAlfonso8/music_app/raw/main/songs/Rockstar.m4a",
@@ -36,13 +36,13 @@
     "imageUrl": "https://picsum.photos/200"
   },
   {
-    "url": "https://github.com/FrankAlfonso8/music_app/raw/refs/heads/main/songs/Rack.m4a",
+    "url": "https://github.com/FrankAlfonso8/music_app/raw/main/songs/Rack.m4a",
     "title": "Rack",
     "author": "Callmestevieray",
     "imageUrl": "https://picsum.photos/200"
   },
   {
-    "url": "https://github.com/FrankAlfonso8/music_app/raw/refs/heads/main/songs/Mike_Sherm_Mentality.m4a",
+    "url": "https://github.com/FrankAlfonso8/music_app/raw/main/songs/Mike_Sherm_Mentality.m4a",
     "title": "Mike Sherm Mentality",
     "author": "Mike Sherm",
     "imageUrl": "https://picsum.photos/200"
