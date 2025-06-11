@@ -1,50 +1,458 @@
 [
-  {
-    "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Amord3.m4a",
-    "title": "Amord3",
-    "author": "Unknown",
-    "imageUrl": ""
-  },
-  {
-    "url": "https://github.com/FrankAlfonso8/music_app/raw/main/songs/Xxxtentacion_Sad.mp3",
-    "title": "Sad",
-    "author": "XXXTentacion",
-    "imageUrl": "https://picsum.photos/200"
-  },
-  {
-    "url": "https://github.com/FrankAlfonso8/music_app/raw/main/songs/NIHILS_HELP_OUR_SOULS.mp3",
-    "title": "Help Our Souls",
-    "author": "NIHILS",
-    "imageUrl": "https://picsum.photos/200"
-  },
-  {
-    "url": "https://github.com/FrankAlfonso8/music_app/raw/main/songs/ToveLo_Talking_Body.mp3",
-    "title": "Talking Body",
-    "author": "Tove Lo",
-    "imageUrl": "https://picsum.photos/200"
-  },
-  {
-    "url": "https://github.com/FrankAlfonso8/music_app/raw/main/songs/Redbone.mp3",
-    "title": "Redbone",
-    "author": "Childish Gambino",
-    "imageUrl": "https://picsum.photos/200"
-  },
-  {
-    "url": "https://github.com/FrankAlfonso8/music_app/raw/main/songs/Rockstar.m4a",
-    "title": "Rockstar",
-    "author": "Ilcan Sencan, Dyonoro",
-    "imageUrl": "https://picsum.photos/200"
-  },
-  {
-    "url": "https://github.com/FrankAlfonso8/music_app/raw/main/songs/Rack.m4a",
-    "title": "Rack",
-    "author": "Callmestevieray",
-    "imageUrl": "https://picsum.photos/200"
-  },
-  {
-    "url": "https://github.com/FrankAlfonso8/music_app/raw/main/songs/Mike_Sherm_Mentality.m4a",
-    "title": "Mike Sherm Mentality",
-    "author": "Mike Sherm",
-    "imageUrl": "https://picsum.photos/200"
-  }
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/One_Dance.mp3",
+      "title": "One Dance",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/This_Place.mp3",
+      "title": "This Place",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Sweater_Weather.mp3",
+      "title": "Sweater Weather",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Identical_feat_Yeah_Boy.mp3",
+      "title": "Identical feat Yeah Boy",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Psycho.mp3",
+      "title": "Psycho",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Apologize.mp3",
+      "title": "Apologize",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Thank_You_Not_So_Bad.mp3",
+      "title": "Thank You Not So Bad",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Let_Me_Down_Slowly.mp3",
+      "title": "Let Me Down Slowly",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Give_It_To_Me.mp3",
+      "title": "Give It To Me",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/FCK_YOU_GOODBYE_feat_Machine_Gun_Kelly.mp3",
+      "title": "FCK YOU GOODBYE feat Machine Gun Kelly",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/MAYBE.mp3",
+      "title": "MAYBE",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Mismas_Jordan.mp3",
+      "title": "Mismas Jordan",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/KIKA.mp3",
+      "title": "KIKA",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/GATTI.mp3",
+      "title": "GATTI",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Money.mp3",
+      "title": "Money",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/FEEL_NOTHING.mp3",
+      "title": "FEEL NOTHING",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Gold.mp3",
+      "title": "Gold",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Underworld.mp3",
+      "title": "Underworld",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/TINTA_FLOCK.mp3",
+      "title": "TINTA FLOCK",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Needed_Me_x_Streets_Sped_Up_Remix.mp3",
+      "title": "Needed Me x Streets Sped Up Remix",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Call_It_Love.mp3",
+      "title": "Call It Love",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Cravin.mp3",
+      "title": "Cravin",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Left_Right.mp3",
+      "title": "Left Right",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Left_Outside_Alone.mp3",
+      "title": "Left Outside Alone",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/I_Got_5_On_It.mp3",
+      "title": "I Got 5 On It",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Bloodline.mp3",
+      "title": "Bloodline",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Shadow_Moses.mp3",
+      "title": "Shadow Moses",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Anomaly.mp3",
+      "title": "Anomaly",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Animals.mp3",
+      "title": "Animals",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Stimulate_feat_Tia_Tia.mp3",
+      "title": "Stimulate feat Tia Tia",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Gangsta_Track.mp3",
+      "title": "Gangsta Track",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Sexy_Chick_feat_Akon.mp3",
+      "title": "Sexy Chick feat Akon",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Theres_Nothing_Holdin_Me_Back.mp3",
+      "title": "Theres Nothing Holdin Me Back",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Leave_Me_Alone.mp3",
+      "title": "Leave Me Alone",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Last_Resort.mp3",
+      "title": "Last Resort",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Beautiful_Things.mp3",
+      "title": "Beautiful Things",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/AMG.mp3",
+      "title": "AMG",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Pon_De_Replay.mp3",
+      "title": "Pon De Replay",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Orquestra_Maldita.mp3",
+      "title": "Orquestra Maldita",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/HOTEL_LOBBY_Unc_Phew_A_COLORS_SHOW.mp3",
+      "title": "HOTEL LOBBY Unc Phew A COLORS SHOW",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Dior.mp3",
+      "title": "Dior",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Ela_\u00e9_Espetacular_Mulher_Kama_Sutra_2.mp3",
+      "title": "Ela \u00e9 Espetacular Mulher Kama Sutra 2",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Yahyuppiyah_feat_Pcee_EeQue_Chley.mp3",
+      "title": "Yahyuppiyah feat Pcee EeQue Chley",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Gotta_Get_Thru_This_DND_Radio_Edit.mp3",
+      "title": "Gotta Get Thru This DND Radio Edit",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Ela_Vem_Brota_no_Meu_Setor.mp3",
+      "title": "Ela Vem Brota no Meu Setor",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Dalie_feat_Baby_SON.mp3",
+      "title": "Dalie feat Baby SON",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Bankroll.mp3",
+      "title": "Bankroll",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Super_Villain.mp3",
+      "title": "Super Villain",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Invincible.mp3",
+      "title": "Invincible",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Rockstar.mp3",
+      "title": "Rockstar",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Ballin.mp3",
+      "title": "Ballin",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Fui_Mlk.mp3",
+      "title": "Fui Mlk",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Whoopty.mp3",
+      "title": "Whoopty",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/See_Me_Fall_Y2K_Remix.mp3",
+      "title": "See Me Fall Y2K Remix",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Still_Be_Friends_feat_Tory_Lanez_Tyga.mp3",
+      "title": "Still Be Friends feat Tory Lanez Tyga",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Move_Your_Body.mp3",
+      "title": "Move Your Body",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Fight_Back.mp3",
+      "title": "Fight Back",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Parte_Choke.mp3",
+      "title": "Parte Choke",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/SMALL_TALK.mp3",
+      "title": "SMALL TALK",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Rack.mp3",
+      "title": "Rack",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Nice.mp3",
+      "title": "Nice",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/The_Hills_X_Where_Have_You_Been.mp3",
+      "title": "The Hills X Where Have You Been",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/The_Hills_X_Creepin_X_The_Color_Violet.mp3",
+      "title": "The Hills X Creepin X The Color Violet",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/2_FAST_2_FURIOUS.mp3",
+      "title": "2 FAST 2 FURIOUS",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Hotel_Lobby.mp3",
+      "title": "Hotel Lobby",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Carry_Out_Featuring_Justin_Timberlake.mp3",
+      "title": "Carry Out Featuring Justin Timberlake",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Still_Hot.mp3",
+      "title": "Still Hot",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Mike_Sherm_Mentality.mp3",
+      "title": "Mike Sherm Mentality",
+      "author": "Unknown",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Amord3.m4a",
+      "title": "Amord3",
+      "author": "Unknown",
+      "imageUrl": ""
+    },
+    {
+      "url": "https://github.com/FrankAlfonso8/music_app/raw/main/songs/Xxxtentacion_Sad.mp3",
+      "title": "Sad",
+      "author": "XXXTentacion",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://github.com/FrankAlfonso8/music_app/raw/main/songs/NIHILS_HELP_OUR_SOULS.mp3",
+      "title": "Help Our Souls",
+      "author": "NIHILS",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://github.com/FrankAlfonso8/music_app/raw/main/songs/ToveLo_Talking_Body.mp3",
+      "title": "Talking Body",
+      "author": "Tove Lo",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://github.com/FrankAlfonso8/music_app/raw/main/songs/Redbone.mp3",
+      "title": "Redbone",
+      "author": "Childish Gambino",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://github.com/FrankAlfonso8/music_app/raw/main/songs/Rockstar.m4a",
+      "title": "Rockstar",
+      "author": "Ilcan Sencan, Dyonoro",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://github.com/FrankAlfonso8/music_app/raw/main/songs/Rack.m4a",
+      "title": "Rack",
+      "author": "Callmestevieray",
+      "imageUrl": "https://picsum.photos/200"
+    },
+    {
+      "url": "https://github.com/FrankAlfonso8/music_app/raw/main/songs/Mike_Sherm_Mentality.m4a",
+      "title": "Mike Sherm Mentality",
+      "author": "Mike Sherm",
+      "imageUrl": "https://picsum.photos/200"
+    }
 ]
