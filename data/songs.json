@@ -186,7 +186,7 @@
       "imageUrl": "https://picsum.photos/200"
     },
     {
-      "url": "https://github.com/FrankAlfonso8/music_app/raw/refs/heads/main/songs/Sexy_Chick.mp3",
+      "url": "https://github.com/FrankAlfonso8/music_app/main/songs/Sexy_Chick.mp3",
       "title": "Sexy Chick",
       "author": "David Guetta feat Akon",
       "imageUrl": "https://picsum.photos/200"
@@ -398,12 +398,6 @@
     {
       "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Still_Hot.mp3",
       "title": "Still Hot",
-      "author": "Unknown",
-      "imageUrl": "https://picsum.photos/200"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/FrankAlfonso8/music_app/main/songs/Mike_Sherm_Mentality.mp3",
-      "title": "Mike Sherm Mentality",
       "author": "Unknown",
       "imageUrl": "https://picsum.photos/200"
     },
